@@ -1,0 +1,6 @@
+{
+  "name": "RecAI - LLM Recommender Systems",
+  "description": "Interactive Next-Generation Recommender Systems powered by LLMs (InteRecAgent, Knowledge Plugin, RecExplainer, RecLM)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,19 +1,36 @@
-# Auto-Scholar-AI-Agent
+# RecAI
 
-## AI Agent for Scholars
+## AI-Powered Recommendation System
 
 ### Description
 
-Auto-Scholar-AI-Agent is an AI-powered scholarship recommendation system that helps students discover suitable scholarships based on their academic qualifications, personal details, eligibility criteria, and requirements.
+RecAI is an AI-powered recommendation system designed to provide intelligent and personalized recommendations based on user requirements. It combines AI techniques with recommendation workflows to help users discover relevant options efficiently.
 
 ### Features
 
-- 🎓 Scholarship recommendations
-- 🤖 AI-powered eligibility analysis
-- 🔍 Personalized scholarship discovery
-- 📋 Eligibility-based recommendations
-- 💡 Intelligent assistance for students
+- 🤖 AI-powered recommendations
+- 🎯 Personalized recommendations
+- 💬 Intelligent user interaction
+- 🔍 Requirement-based recommendations
+- 📊 Recommendation analysis and explanation
+- ⚡ Fast and interactive interface
 
-### Status
+### Technologies Used
 
-Project Planning
+- React
+- TypeScript
+- Node.js
+- Vite
+- AI/LLM
+- Git & GitHub
+
+### Project Structure
+
+```text
+RecAI/
+├── server/
+├── src/
+├── server.ts
+├── package.json
+├── vite.config.ts
+└── README.md

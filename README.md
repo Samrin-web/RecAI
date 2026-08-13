@@ -1,20 +1,19 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# Auto-Scholar-AI-Agent
 
-# Run and deploy your AI Studio app
+## AI Agent for Scholars
 
-This contains everything you need to run your app locally.
+### Description
 
-View your app in AI Studio: https://ai.studio/apps/68ffa13e-c8b7-459c-90d7-8a2c94eeb1ce
+Auto-Scholar-AI-Agent is an AI-powered scholarship recommendation system that helps students discover suitable scholarships based on their academic qualifications, personal details, eligibility criteria, and requirements.
 
-## Run Locally
+### Features
 
-**Prerequisites:**  Node.js
+- 🎓 Scholarship recommendations
+- 🤖 AI-powered eligibility analysis
+- 🔍 Personalized scholarship discovery
+- 📋 Eligibility-based recommendations
+- 💡 Intelligent assistance for students
 
+### Status
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+Project Planning
